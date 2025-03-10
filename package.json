@@ -8,7 +8,7 @@
   },
   "author": "JP Deaton",
   "license": "ISC",
-  "description": "",
+  "description": "Recipe application",
   "dependencies": {
     "core-js": "^3.41.0",
     "fracty": "^1.0.12",
