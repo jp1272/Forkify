@@ -10,9 +10,9 @@
   "license": "ISC",
   "description": "Recipe application",
   "dependencies": {
-    "core-js": "^3.41.0",
+    "core-js": "^3.6.5",
     "fracty": "^1.0.12",
-    "regenerator-runtime": "^0.14.1"
+    "regenerator-runtime": "^0.13.7"
   },
   "devDependencies": {
     "@parcel/transformer-sass": "^2.13.3",
